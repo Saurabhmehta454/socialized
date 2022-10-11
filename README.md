@@ -29,6 +29,8 @@ This should be a quick little task, but the client is paying us A Billion dollar
 
 ## To Run
 
-`run` 
-```localhost:3000``` 
+`run`
+```
+localhost:3000
+``` 
 `after setting up the app!`
